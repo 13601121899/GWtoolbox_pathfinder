@@ -1,0 +1,12 @@
+phase 0.0.0: ET/neutron stars merger (transient GW)
+phase 0.0.0.1: histogram of detected parameter distribution
+phase 0.0.1: Other ground-base inteferometries and different laser power/neutron star mergers
+phase 0.0.2: LISA/neutron stars merger
+phase 0.1.0: Inteferometeris/long lasting single sources
+phase 0.1.1: PTA/long lasting single sources
+phase 0.2.0: Inteferometeries/Background GW
+phase 0.2.1: Inteferometeries/Background GW
+
+
+
+
